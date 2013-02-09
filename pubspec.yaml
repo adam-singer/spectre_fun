@@ -1,0 +1,7 @@
+name:  spectre_fun
+description:  Minimal code to get up and running with spectre
+
+dependencies:
+  browser: any
+  spectre:
+    git: https://github.com/johnmccutchan/spectre.git
